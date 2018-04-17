@@ -1,10 +1,6 @@
  
-NGCOIN项目：
+NG COIN：
 基于区块链技术的初创企业投资众筹平台
-
-─
-Nick Qi
-
 
 项目背景
 当前全世界风险投资行业是一个高度中心化的运行体制，头部的风险投资机构掌握着大量资金， 对于风险投资目标的选择也是由机构体系内部运作的产物，普通大众很难直接参与到风险投资活动中， 这其中主要的原因包括个人掌握资金规模的大小， 对于投资项目风险和收益的评估，进行直接参与投资活动所要求的时间和财力。
@@ -25,13 +21,6 @@ NGC的三个主要项目（NextGenius Community/NextGenius Chain/NextGenius Coin
 NextGenius Community
 
 一个虚拟现实结合的初创企业和投资人交流平台，追求平等，高效，协作的交流和运作方式。
-
-基于澳洲悉尼，过去5年已经成功帮助多个澳洲已经成形的创业团队与中澳风投基金以及政府扶持计划对接，孵化出了成功的创业项目
-每年举办2次的pitch event 寻找最好的3-６个创业项目成为行业风向标
-每年3次的校园分享会聚会 每个月的小型创业者meetup
-
-
-
 
 
 NextGenius Chain
@@ -85,8 +74,6 @@ IP 交易市场
 广告市场
 算力市场
  
-
-
  
 分发机制 (to be confirmed)
 
@@ -102,14 +89,13 @@ NG COIN 的分发：
 🔹 每年使用的 NG COIN 原则上不得超过 1.5/21
  
  
- 
 GAS 的分发：
 GAS 伴随着每个新区块的生成而产生。GAS 初期总量为零，伴随着新区块的生成逐渐增多，直至约 22 年后达到总量上限 1 亿。NG COIN 每个区块的间隔时间约为 15-20 秒，200 万个区块约合 1 年时间。
 第一年（实际为0-200万个区块），每个区块新生成 8 个 GAS；第二年（实际为第 200-400万个区块），每个区块新生成 7 个 GAS；以此类推，每年递减 1 个 GAS，直至第 8 年递减至每个区块新生成 1 个 GAS；自此保持每个区块新生成 1 个 GAS 直至约 22 年后的第 4400 万个区块，GAS 总量到达 1 亿，则停止伴随新区块生成 GAS。
 按照这样的发行曲线，第 1 年会有 16% 的 GAS 被创造，前 4 年会有 52% 的 GAS 被创造，前 12 年 80% 的 GAS 被创造。这些的 GAS 都会按照 NG COIN 的持有比例，记录在对应的地址上。NG COIN 持有人可以在任意时间进行发起一笔认领交易，将这些 GAS 认领到 NG COIN 的地址上。
 
 
-钱包框架 (Yun)
+iOs Wallet (Yun Tan)
 
 Check Balance
 
@@ -117,7 +103,11 @@ Transfer Balance
 
 Wallet Address Management
 
-后台管理
+DAPP Integration
+
+Wallet Security
+
+Admin Management
 
 User Registraion & Login (Nick)
 
@@ -127,16 +117,12 @@ Refferel Reward (Rick + Shane)
 
 Checkin Reward (Rick + Robin)
 
-DAPP区块链应用
+DAPP Development
 
-Queue In System (Alex)
+Queue In System (Zeming)
 
-Entrepreneur Service With NG COIN (Nick + Alex)
+Lottery (Hugo)
 
-区块链教育培训
-
-Regular Workshop (James + Lecky)
-
-安全支付框架
+Entrepreneur Service With NG COIN (Nick + Zeming + Shane)
 
 
